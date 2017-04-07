@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 { 
+	text-align: center;
+	background-image: url(Images/sand.jpg);
+	color: black;
+	padding: 20px;
+}
+
+body {
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size: 2500px;
+	background-color: black;
+	background-image: url(Images/beachNet.jpg);
+}
+
+
+header {
+	text-align: center;
+}
+
+p {
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: white; display: block;
+	padding: 20px;
+	border-style: solid;
+	border-width: 5px;
+	
+}
+	
+
+h3 {
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: white;
+	border-style: solid;
+	border-width: 5px;
+}
+
+p2 {	
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightskyblue;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:#FFFFFF;
+}
+
+input[type=text] {
+	background-color: #FFFFFF;
+	color: #FFFFFF;
+}
+
+
+.whocanplay	{
+		text-align: center;
+		font-size: 300%;
+
+}
+
